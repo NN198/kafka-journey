@@ -9,7 +9,11 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/io.example.kafka.java.WikimediaClassProducer" />
             <option value="$PROJECT_DIR$/kafka-01" />
+            <option value="$PROJECT_DIR$/kafka-consumer-opensearch" />
+            <option value="$PROJECT_DIR$/kafka-producer-wikimedia" />
+            <option value="$PROJECT_DIR$/kafka-wiki" />
           </set>
         </option>
       </GradleProjectSettings>
